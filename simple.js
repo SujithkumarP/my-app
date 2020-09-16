@@ -10,6 +10,7 @@ function a(){
   var e="efg"
 
   var abc="boom boom";
+  var bb="goo";
   return b;
 
 }
