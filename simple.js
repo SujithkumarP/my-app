@@ -6,6 +6,7 @@ if (a) {
 function a(){
   var b="hey";
   var abc="boom boom";
+  var efg="123 abc";
   return b;
   
 }
