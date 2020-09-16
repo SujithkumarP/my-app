@@ -8,17 +8,14 @@ function a(){
   var c="hello"
   var d="123"
   var e="efg"
-<<<<<<< HEAD
 
   var abc="boom boom";
   var efg="123 abc";
   return b;
 
-=======
   var f="qwerty"
   var abc="boom boom";
   return b;
   var c2="from v3"
-  
->>>>>>> v3
+
 }
