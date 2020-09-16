@@ -5,5 +5,7 @@ if (a) {
 
 function a(){
   var b="hey";
+  var abc="boom boom";
   return b;
+  
 }
