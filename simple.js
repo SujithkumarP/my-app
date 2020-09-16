@@ -8,5 +8,6 @@ function a(){
   var c="hello"
   var d="123"
   var e="efg"
+  var f="qwerty"
   return b;
 }
