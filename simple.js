@@ -5,8 +5,12 @@ if (a) {
 
 function a(){
   var b="hey";
+  var c="hello"
+  var d="123"
+  var e="efg"
+
   var abc="boom boom";
   var efg="123 abc";
   return b;
-  
+
 }
