@@ -19,7 +19,9 @@ function a(){
   var c2="from v3"
 
   console.log("from v5 : 1");
-  
+  console.log("from v5 : 2");
+
+
 
 
 }
