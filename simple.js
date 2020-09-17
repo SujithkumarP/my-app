@@ -11,6 +11,7 @@ function a(){
 
   var abc="boom boom";
   var bb="goo";
+  var abc=",.lfs;dm,"
   return b;
 
 }
