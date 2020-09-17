@@ -18,6 +18,8 @@ function a(){
   return b;
   var c2="from v3"
   console.log("from v4 : 1");
+  console.log("from v4 : 2");
+
 
 
   console.log("from v5 : 1");
