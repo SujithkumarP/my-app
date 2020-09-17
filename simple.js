@@ -20,6 +20,8 @@ function a(){
 
   console.log("from v5 : 1");
   console.log("from v5 : 2");
+  console.log("from v5 : 3");
+
 
 
 
